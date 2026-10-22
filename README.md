@@ -1,1 +1,1 @@
-# CSCI400-ComputerAdSociety- My own POV 
+# CSCI400-ComputerAndSociety- My own POV 
